@@ -1,0 +1,112 @@
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\ClientDataProject.dll.config
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\ClientDataProject.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\ClientDataProject.pdb
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Antlr3.Runtime.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\EntityFramework.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\EntityFramework.SqlServer.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Google.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Newtonsoft.Json.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Owin.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Helpers.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Mvc.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Optimization.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Razor.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Razor.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\WebGrease.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Helpers.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Mvc.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Optimization.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.Razor.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Razor.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Newtonsoft.Json.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Antlr3.Runtime.pdb
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\EntityFramework.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\EntityFramework.SqlServer.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Google.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.csprojResolveAssemblyReference.cache
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.dll
+c:\users\syfolics'\documents\visual studio 2013\Projects\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.pdb
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\ClientDataProject.dll.config
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\ClientDataProject.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\ClientDataProject.pdb
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Antlr3.Runtime.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\EntityFramework.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Newtonsoft.Json.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Owin.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Helpers.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Mvc.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Optimization.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Razor.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\WebGrease.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Helpers.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Mvc.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Optimization.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.Razor.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Newtonsoft.Json.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Antlr3.Runtime.pdb
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\EntityFramework.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.csprojResolveAssemblyReference.cache
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.dll
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.pdb
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.Migrations.InitialCreate.resources
+C:\Users\Syfolics'\Documents\GitHub\ClientDataProject\ClientDataProject\obj\Debug\ClientDataProject.csproj.GenerateResource.Cache
